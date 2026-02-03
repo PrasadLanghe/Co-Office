@@ -79,6 +79,6 @@ public class Contact {
 	public void setCreatedAt(LocalDateTime createdAt) {
 		this.createdAt = createdAt;
 	}
-
+	
     // getters & setters
 }
